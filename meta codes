@@ -1,0 +1,11 @@
+Otobüs sayfaları için aşağıda ki template'i kullanalım.
+
+ <title>77 ŞİŞLİ - YENİKAPI</title>
+ <meta name="description" content="iett 77 ŞİŞLİ - YENİKAPI sefer saatleri, geçtiği duraklar, iett otobüs saatleri, ido seferleri, iett otobüs durakları, otobüs saatleri, oraya nasıl giderim ve istanbul ulaşım çözümleri. "></meta>
+  <meta name="keywords" content="iett, 77, ŞİŞLİ-YENİKAPI sefer saatleri, geçtiği duraklar, ido, iett otobüs arama, otobüs saatleri, otobüs durakları, istanbul otobüs, istanbul ulaşım, oraya nasıl giderim, durak arama, en yakın durak"></meta>
+
+Durak sayfaları için de aşağıda ki template'i kullanalım.
+
+ <title>iett OKMEYDANI durağından geçen otobüsler</title>
+ <meta name="description" content="iett OKMEYDANI durağından geçen otobüsler(hatlar), iett otobüs saatleri, ido seferleri, iett otobüs durakları, otobüs saatleri, oraya nasıl giderim ve istanbul ulaşım çözümleri. "></meta>
+  <meta name="keywords" content="iett, OKMEYDANI,OKMEYDANI durağı, ŞİŞLİ-YENİKAPI sefer saatleri, geçtiği duraklar, ido, iett otobüs arama, otobüs saatleri, otobüs durakları, istanbul otobüs, istanbul ulaşım, oraya nasıl giderim, durak arama, en yakın durak"></meta>
